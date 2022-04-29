@@ -93,20 +93,10 @@ contract StakerInfo is Ownable {
 			_updateInfo(0x11111111aCC5167eC76ba11Bfc8e6Aa595b816B7, _configUrl);
 			_updateInfo(0x22222222cfaecf02D2Ec037D070996e1E933B655, _configUrl);
 			_updateInfo(0x33333333A4c641FC9a8A1BF806Af683Fc9bd89E9, _configUrl);
-			_updateInfo(0x4444444448bdfFb42257449f2730Ba9400F41103, _configUrl);
-			_updateInfo(0x555555555033c16772201210A1B0062ADf0Fe0b8, _configUrl);
-			_updateInfo(0x66666666061c2cb748fF9Acb790E7ffC37496F45, _configUrl);
-			_updateInfo(0x777777775ad670e03C31b549F132CbcA7E17A7Cd, _configUrl);
-			_updateInfo(0x8888880A30642CFdB618F176ddA8f14276a3e2Ff, _configUrl);
 		} else {
-			_updateInfo(0x1100FF293E6DBF8ab29077d048c5FbA0AD68E45E, _configUrl);
-			_updateInfo(0x2200cEE5dB1506C1BD3d4606A02B25EFa04040A1, _configUrl);
-			_updateInfo(0x330021E57830B5ec84E01C15dD41baBdF40Fe8eD, _configUrl);
-			_updateInfo(0x4400272572eB58878ec90e9e6D7d5Bf9eBB2Da4B, _configUrl);
-			_updateInfo(0x55009E1f4a9069ca9a423a7295D02e946874501F, _configUrl);
-			_updateInfo(0x660008eaecfd46Eb085EFeb9CCdeC9ebB17f76b9, _configUrl);
-			_updateInfo(0x770098CC94b51f6D4d42fD944761608Fa04978D9, _configUrl);
-			_updateInfo(0x8800a07d588412D6dBa94c34d73D0cB53fFb618A, _configUrl);
+			_updateInfo(0x11111111aCC5167eC76ba11Bfc8e6Aa595b816B7, _configUrl);
+			_updateInfo(0x22222222cfaecf02D2Ec037D070996e1E933B655, _configUrl);
+			_updateInfo(0x33333333A4c641FC9a8A1BF806Af683Fc9bd89E9, _configUrl);
 		}
 	}
 
